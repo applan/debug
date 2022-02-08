@@ -1,2 +1,2 @@
 # debug
- signs of error fighting
+오류와 싸워 전리품이 가득한 곳
