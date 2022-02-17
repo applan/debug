@@ -42,7 +42,7 @@ public void main(...){
 }
 ```
 
-# 원인
+# 결과
 
 ftp.recv(~~remoteFile~~ -> **remoteFileName**, localFile);
 
